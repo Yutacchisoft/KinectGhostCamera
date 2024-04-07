@@ -1,1 +1,1 @@
-# SkeletonBasics-WPF
+# KinectGhostCamera
